@@ -40,7 +40,7 @@ Additionally, the repository includes an adafruit-circuitpython uf2 file.
 ```
 5. Note the combined.bin file will be inside the esptool-win64 folder.
 6. There should be a new drive detected by your computer now
-7. now copy the adafruit-circuitpython-m5stack_atoms3_lite-en_US-9.1.4.uf2 to that newly detect drive.
+7. now copy the "adafruit-circuitpython-m5stack_atoms3_lite-en_US-9.1.4.uf2" file to that newly detect drive.
 8. after that the device will boot again with circuit.py name
 9. now drag and drop the files inside folder AtomDucky_no_ble
 10.Thats it the rubber ducky is ready and remove the device and plug it in a device where you want to run the commands.
