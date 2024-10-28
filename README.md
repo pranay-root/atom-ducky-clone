@@ -44,6 +44,7 @@ Additionally, the repository includes an adafruit-circuitpython uf2 file.
 8. after that the device will boot again with circuit.py name
 9. now drag and drop the files inside folder AtomDucky_no_ble
 10.Thats it the rubber ducky is ready and remove the device and plug it in a device where you want to run the commands.
+   
 11.Now it will generate a wifi name ```cyberblockz``` and password ```passw1234``` connect with that wifi and control the keystroks and payloads.
 
 Credits
